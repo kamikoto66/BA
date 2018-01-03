@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1898291889111018}
+  m_IsPrefabParent: 1
+--- !u!1 &1898291889111018
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4499690085122530}
+  - component: {fileID: 114908995606657466}
+  m_Layer: 0
+  m_Name: FurnitureModelManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4499690085122530
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1898291889111018}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 6.183529, y: 8.461696, z: 96.75103}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114908995606657466
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1898291889111018}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ace403d8c61c624a91ed80de3ae6dac, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  models:
+  - {fileID: 1393300403222764, guid: c561c98194133fc4399773eb0c7c7066, type: 2}
+  - {fileID: 1468063867890764, guid: 04cd627e2d193554eb7b152cf134c48c, type: 2}
+  - {fileID: 1403726928453444, guid: dbed6ce97f3bdd24db21d0d51929f381, type: 2}
+  - {fileID: 1123931907986248, guid: 5755ccd557536f64cacfd29eea372bde, type: 2}
+  - {fileID: 1477646105496658, guid: bdbb5529a3e850f45a52618023b42c2f, type: 2}
+  - {fileID: 1972534423518406, guid: e5a9a8fc2a0151746acbb5733357a709, type: 2}
+  - {fileID: 1317076874421576, guid: 2d77327c77cf36643823e146554780b9, type: 2}
+  - {fileID: 1105009974350922, guid: d1c7afc248293224a97d7a14f9e5afdb, type: 2}
+  sponModels: []

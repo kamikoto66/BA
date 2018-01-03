@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+<<<<<<< HEAD:BAM!/Assets/Resources/Prefabs/GameScene/Object/Rock2.prefab.meta
+guid: 2bbeb2f67f01fc8469ae379a8b128a87
+timeCreated: 1506436382
+licenseType: Pro
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+=======
+guid: 8856e0a79a5eb454f99b65d4292b158f
+timeCreated: 1506352181
+licenseType: Free
+DefaultImporter:
+>>>>>>> 556ce2fdbd72deef8f5cc04711cab8d354d5f5cf:BAM!/Assets/GameTable-Generator/MapData.xlsx.meta
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

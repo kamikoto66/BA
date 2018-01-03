@@ -1,0 +1,44 @@
+[
+    {
+        "id": "M_0",
+        "name": "Forest_1",
+        "award": 1,
+        "level": 1,
+        "time": 1
+    },
+    {
+        "id": "M_1",
+        "name": "Forest_2",
+        "award": 2,
+        "level": 2,
+        "time": 1
+    },
+    {
+        "id": "M_2",
+        "name": "Forest_3",
+        "award": 1,
+        "level": 3,
+        "time": 2
+    },
+    {
+        "id": "M_3",
+        "name": "Forest_4",
+        "award": 1,
+        "level": 4,
+        "time": 2
+    },
+    {
+        "id": "M_4",
+        "name": "Forest_5",
+        "award": 1,
+        "level": 5,
+        "time": 3
+    },
+    {
+        "id": "M_5",
+        "name": "Forest_6",
+        "award": 1,
+        "level": 6,
+        "time": 3
+    }
+]

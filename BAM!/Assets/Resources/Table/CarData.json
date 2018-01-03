@@ -1,0 +1,29 @@
+[
+    {
+        "id": "C_001",
+        "modelPath": "Prefabs/HomeScene/Car/C_001",
+        "imagePath": "Prefabs/HomeScene/UI/CarInven/Car_001",
+        "prefabPath": "Prefabs/GameScene/Car/C_001",
+        "speed": 1,
+        "maxSpeed": 2,
+        "hp": 5
+    },
+    {
+        "id": "C_002",
+        "modelPath": "Prefabs/HomeScene/Car/C_002",
+        "imagePath": "Prefabs/HomeScene/UI/CarInven/Car_002",
+        "prefabPath": "Prefabs/GameScene/Car/C_002",
+        "speed": 1,
+        "maxSpeed": 2,
+        "hp": 5
+    },
+    {
+        "id": "C_003",
+        "modelPath": "Prefabs/HomeScene/Car/C_003",
+        "imagePath": "Prefabs/HomeScene/UI/CarInven/Car_003",
+        "prefabPath": "Prefabs/GameScene/Car/C_003",
+        "speed": 1,
+        "maxSpeed": 2,
+        "hp": 5
+    }
+]

@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1534387560748708}
+  m_IsPrefabParent: 1
+--- !u!1 &1534387560748708
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4924962537448120}
+  - component: {fileID: 114606560074360898}
+  - component: {fileID: 114681267618953856}
+  - component: {fileID: 114818860667041892}
+  m_Layer: 0
+  m_Name: CarInvenManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4924962537448120
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1534387560748708}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 10.177465, y: 7.661488, z: 96.316246}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114606560074360898
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1534387560748708}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55ee16deb1f647944965a8be02071507, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &114681267618953856
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1534387560748708}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ec3b01138760ce49bff68ccdc4b642c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  CarModels:
+  - {fileID: 1478122434635084, guid: 7896b83b5b918a145b9a829261d1192e, type: 2}
+  - {fileID: 1107799083640194, guid: 820754ee0f06dd144abef6a0007444b6, type: 2}
+  - {fileID: 1630100419476950, guid: ae771e42b7be86d419244e632b52f58d, type: 2}
+--- !u!114 &114818860667041892
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1534387560748708}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c4cd3b400e15904479cf7962ff0701b7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

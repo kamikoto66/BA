@@ -1,0 +1,354 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AnimalAni" Collapsed="true">
+    <Position X="14.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAQAAAAABAAAAAA=</HashCode>
+      <FileName>Assets\Script\GameScene\Animal\AnimalAni.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnimalsBase" Collapsed="true">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAEAAAAAIAQAAAgABAAIAAAAAYQhAARAAAAAggA=</HashCode>
+      <FileName>Assets\Script\GameScene\Animal\AnimalBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnimalControl" Collapsed="true">
+    <Position X="16.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACCAAAAEAAAAAAAAEAABAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>Assets\Script\GameScene\Animal\AnimalControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnimalParser" Collapsed="true">
+    <Position X="18.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAggAAAAgAAAAIAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Script\GameScene\Animal\AnimalParser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DearControl" Collapsed="true">
+    <Position X="12.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\GameScene\Animal\DearControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GiraffeControl" Collapsed="true">
+    <Position X="1" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\GameScene\Animal\GiraffeControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LionControl" Collapsed="true">
+    <Position X="3.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\GameScene\Animal\LionControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PumaControl" Collapsed="true">
+    <Position X="5.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\GameScene\Animal\PumaControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RhinocerosControl" Collapsed="true">
+    <Position X="7.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\GameScene\Animal\RhinocerosControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TigerControl" Collapsed="true">
+    <Position X="10" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\GameScene\Animal\TigerControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BuildingBase" Collapsed="true">
+    <Position X="21.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAgIAAAACAAAgAAIAABAAAACAAA=</HashCode>
+      <FileName>Assets\Script\GameScene\Building\BuildingBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuarterCamera" Collapsed="true">
+    <Position X="21.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAIAAAAICCAAAACAAABAAAAAAAAgAA=</HashCode>
+      <FileName>Assets\Script\GameScene\Camera\QuarterCamera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameManager" Collapsed="true">
+    <Position X="23.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIkAAQAiACAAAKCIAAAAAAAABACAQBAAAAAAAAAAg=</HashCode>
+      <FileName>Assets\Script\GameScene\GameManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JailControl" Collapsed="true">
+    <Position X="20" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\GameScene\Object\JailControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExplosionParticle" Collapsed="true">
+    <Position X="21.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\GameScene\Particle\ExplosionParticle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerAnimation" Collapsed="true">
+    <Position X="23.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\GameScene\Player\PlayerAnimation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerContol" Collapsed="true">
+    <Position X="14.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAACAgAAAAAAgAAAAAEAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Script\GameScene\Player\PlayerContol.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerMove" Collapsed="true">
+    <Position X="16.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAEAgAACAAAACAAAAAAACAAEAAgQAAQAAAAAgAAAA=</HashCode>
+      <FileName>Assets\Script\GameScene\Player\PlayerMove.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerState" Collapsed="true">
+    <Position X="18.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAQAAQAAAAAIABAAAIAEAABAAAAAAII=</HashCode>
+      <FileName>Assets\Script\GameScene\Player\PlayerState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HPBar" Collapsed="true">
+    <Position X="16.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>Assets\Script\GameScene\UI\HPBar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProgressBar" Collapsed="true">
+    <Position X="20" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAQACAAAAAAAAAAAgEAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\GameScene\UI\ProgressBar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Score" Collapsed="true">
+    <Position X="23.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAQAAAAAIAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\GameScene\UI\Score.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Timer" Collapsed="true">
+    <Position X="14.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAiACAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\GameScene\UI\Timer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BoradManager" Collapsed="true">
+    <Position X="20" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAQAAAAAAAAAIABAAAEAAAAAAACAAEA=</HashCode>
+      <FileName>Assets\Script\HomeScene\BoradManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BookShelf" Collapsed="true">
+    <Position X="0.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAgAAAAAAAAAAAAAAAAAAAABACAAAAAAA=</HashCode>
+      <FileName>Assets\Script\HomeScene\Furniture\BookShelf.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Chair" Collapsed="true">
+    <Position X="2.75" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAgAAAAAAAAAAAAAAAAAAAABACAAAAAAA=</HashCode>
+      <FileName>Assets\Script\HomeScene\Furniture\Chair.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FurnitureModelManager" Collapsed="true">
+    <Position X="18.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAACEQECEAAAAAAAAAABgACAAAIAAAAAAAIAAIAAA=</HashCode>
+      <FileName>Assets\Script\HomeScene\Furniture\FurnitureModelManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FurnitureObject" Collapsed="true">
+    <Position X="1.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>RAQAAAAAACEAgAAAAAgAAAAAAABAAAQEIBACAAAAAQA=</HashCode>
+      <FileName>Assets\Script\HomeScene\Furniture\FurnitureObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FurnitureSponData" Collapsed="true">
+    <Position X="20" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAgAAAAAAAAEQAAEAAAAAA=</HashCode>
+      <FileName>Assets\Script\HomeScene\Furniture\FurnitureSponDataList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FurnitureSponDataList" Collapsed="true">
+    <Position X="21.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQCAAFAAAAAAAIAAAAAAAEAAABAACAAAAACA=</HashCode>
+      <FileName>Assets\Script\HomeScene\Furniture\FurnitureSponDataList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HomeSceneManager" Collapsed="true">
+    <Position X="14.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABYAKAAIACAAAgIAIgEgAAAABIBAIACAgAACAAAAAGA=</HashCode>
+      <FileName>Assets\Script\HomeScene\HomeSceneManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarDataManager" Collapsed="true">
+    <Position X="23.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAEAAAAAAAAAAgQACAAAAAAAAAAAAABQ=</HashCode>
+      <FileName>Assets\Script\HomeScene\UI\Car\CarDataManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarInfo" Collapsed="true">
+    <Position X="18.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQgAAQAAAAAAAEAAAAAAAAAAQAAAAAAgA=</HashCode>
+      <FileName>Assets\Script\HomeScene\UI\Car\CarDataManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarDataParse" Collapsed="true">
+    <Position X="14.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAggAAAAAAAAAIAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Script\HomeScene\UI\Car\CarDataParse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarImage" Collapsed="true">
+    <Position X="16.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAQAAAACAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\HomeScene\UI\Car\CarImage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarInventory" Collapsed="true">
+    <Position X="5.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAACACAAAAAAAAAAAQAAAAQAAAAAABA=</HashCode>
+      <FileName>Assets\Script\HomeScene\UI\Car\CarInventory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarModelManager" Collapsed="true">
+    <Position X="20" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQIAAAEASAAAAAAAAAAAAAAAAAAgAAQAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\HomeScene\UI\Car\CarModelManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FurnitureDataManager" Collapsed="true">
+    <Position X="14.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgQAAAAAACAAACAAAAAAACAAgAAAAAAAAEAABgAAAAI=</HashCode>
+      <FileName>Assets\Script\HomeScene\UI\Furniture\FurnitureDataManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FurnitureData" Collapsed="true">
+    <Position X="23.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAEQAAAAQAAgA=</HashCode>
+      <FileName>Assets\Script\HomeScene\UI\Furniture\FurnitureDataManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FurnitureImage" Collapsed="true">
+    <Position X="16.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAACAAAABAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Assets\Script\HomeScene\UI\Furniture\FurnitureImage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FurnitureInventory" Collapsed="true">
+    <Position X="3" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQCAAEAACAAAAACACQAEAAAAAAAIBAAAAAAAAAAABE=</HashCode>
+      <FileName>Assets\Script\HomeScene\UI\Furniture\FurnitureInventory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InventoryScroll" Collapsed="true">
+    <Position X="3" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEBAAAAQAAAAAQAAAAiAAAAAAAAAAAACAiAAQAAAA=</HashCode>
+      <FileName>Assets\Script\HomeScene\UI\InvenBase\InventoryScroll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InventoryButtons" Collapsed="true">
+    <Position X="18.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAEAABAAKAAAAAAAQAAAAAAAEAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\HomeScene\UI\InventoryButtons.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MenuButtons" Collapsed="true">
+    <Position X="21.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAYAACAgACAAAAAAgIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\HomeScene\UI\MenuButtons\MenuButtons.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScrollButton" Collapsed="true">
+    <Position X="0.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACQIIAAAACQAAAAAAAAAAAAAAAAAAAAAAAACIAAAAAA=</HashCode>
+      <FileName>Assets\Script\HomeScene\UI\ScrollButton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="AnimalData" Collapsed="true">
+    <Position X="14.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAQAAAABAAAAAAgA=</HashCode>
+      <FileName>Assets\Script\GameScene\Animal\AnimalParser.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Enum Name="eAnimal" Collapsed="true">
+    <Position X="14.75" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\GameScene\Animal\AnimalBase.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="eAnimalState" Collapsed="true">
+    <Position X="16.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAQAAAAIAAAAAAAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\GameScene\Animal\AnimalBase.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="eFurnitureIndex" Collapsed="true">
+    <Position X="18.25" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAGAAAAEAACAAAAAAAAAAAEAAAAgAAAAA=</HashCode>
+      <FileName>Assets\Script\HomeScene\Furniture\FurnitureObject.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="eScrollState" Collapsed="true">
+    <Position X="20" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQAAAACCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\HomeScene\UI\InvenBase\InventoryScroll.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="맑은 고딕" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,32 @@
+[
+    {
+        "id": "Prob",
+        "Car": [
+            {
+                "id": "C_001",
+                "probs": "C",
+                "value": 80
+            },
+            {
+                "id": "C_002",
+                "probs": "B",
+                "value": 15
+            },
+            {
+                "id": "C_003",
+                "probs": "A",
+                "value": 5
+            }
+        ],
+        "Furniture": [
+            {
+                "id": "F_001",
+                "prob": "C"
+            },
+            {
+                "id": "F_002",
+                "prob": "B"
+            }
+        ]
+    }
+]

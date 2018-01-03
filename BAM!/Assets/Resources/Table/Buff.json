@@ -1,0 +1,98 @@
+[
+    {
+        "id": "B_001",
+        "name": "asdf",
+        "BuffEffect": [
+            {
+                "level": 1,
+                "type": "",
+                "value": 1,
+                "description": "qwer"
+            },
+            {
+                "level": 2,
+                "type": "",
+                "value": 2,
+                "description": "qwer"
+            },
+            {
+                "level": 3,
+                "type": "",
+                "value": 3,
+                "description": "qwer"
+            }
+        ]
+    },
+    {
+        "id": "B_002",
+        "name": "asfd",
+        "BuffEffect": [
+            {
+                "level": 1,
+                "type": "",
+                "value": 1,
+                "description": "asdf"
+            },
+            {
+                "level": 2,
+                "type": "",
+                "value": 2,
+                "description": "asdf"
+            },
+            {
+                "level": 3,
+                "type": "",
+                "value": 3,
+                "description": "asdf"
+            }
+        ]
+    },
+    {
+        "id": "B_003",
+        "name": "qwer",
+        "BuffEffect": [
+            {
+                "level": 1,
+                "type": "",
+                "value": 1,
+                "description": "zxcv"
+            },
+            {
+                "level": 2,
+                "type": "",
+                "value": 2,
+                "description": "zxcv"
+            },
+            {
+                "level": 3,
+                "type": "",
+                "value": 3,
+                "description": "zxcv"
+            }
+        ]
+    },
+    {
+        "id": "B_004",
+        "name": "qwer",
+        "BuffEffect": [
+            {
+                "level": 1,
+                "type": "",
+                "value": 1,
+                "description": "vbnm"
+            },
+            {
+                "level": 2,
+                "type": "",
+                "value": 2,
+                "description": "vbnm"
+            },
+            {
+                "level": 3,
+                "type": "",
+                "value": 3,
+                "description": "vbnm"
+            }
+        ]
+    }
+]

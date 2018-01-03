@@ -1,0 +1,146 @@
+[
+    {
+        "id": "A_000",
+        "name": "Dear",
+        "hp": 1,
+        "speed": 3,
+        "maxSpeed": 3,
+        "path": "Prefabs/GameScene/Animal/A_000"
+    },
+    {
+        "id": "A_001",
+        "name": "Dear2",
+        "hp": 1,
+        "speed": 3,
+        "maxSpeed": 3,
+        "path": "Prefabs/GameScene/Animal/A_001"
+    },
+    {
+        "id": "A_002",
+        "name": "Giraffe",
+        "hp": 1,
+        "speed": 3,
+        "maxSpeed": 3,
+        "path": "Prefabs/GameScene/Animal/A_002"
+    },
+    {
+        "id": "A_003",
+        "name": "Giraffe2",
+        "hp": 1,
+        "speed": 3,
+        "maxSpeed": 3,
+        "path": "Prefabs/GameScene/Animal/A_003"
+    },
+    {
+        "id": "A_004",
+        "name": "Rhinoceros",
+        "hp": 1,
+        "speed": 3,
+        "maxSpeed": 3,
+        "path": "Prefabs/GameScene/Animal/A_004"
+    },
+    {
+        "id": "A_005",
+        "name": "Rhinoceros2",
+        "hp": 1,
+        "speed": 3,
+        "maxSpeed": 3,
+        "path": "Prefabs/GameScene/Animal/A_005"
+    },
+    {
+        "id": "A_006",
+        "name": "A_006",
+        "hp": 1,
+        "speed": 3,
+        "maxSpeed": 3,
+        "path": "Prefabs/GameScene/Animal/A_006"
+    },
+    {
+        "id": "A_007",
+        "name": "A_007",
+        "hp": 1,
+        "speed": 3,
+        "maxSpeed": 3,
+        "path": "Prefabs/GameScene/Animal/A_007"
+    },
+    {
+        "id": "A_008",
+        "name": "A_008",
+        "hp": 1,
+        "speed": 3,
+        "maxSpeed": 3,
+        "path": "Prefabs/GameScene/Animal/A_008"
+    },
+    {
+        "id": "A_009",
+        "name": "A_009",
+        "hp": 1,
+        "speed": 3,
+        "maxSpeed": 3,
+        "path": "Prefabs/GameScene/Animal/A_009"
+    },
+    {
+        "id": "A_010",
+        "name": "A_010",
+        "hp": 1,
+        "speed": 3,
+        "maxSpeed": 3,
+        "path": "Prefabs/GameScene/Animal/A_010"
+    },
+    {
+        "id": "A_011",
+        "name": "A_011",
+        "hp": 1,
+        "speed": 3,
+        "maxSpeed": 3,
+        "path": "Prefabs/GameScene/Animal/A_011"
+    },
+    {
+        "id": "A_012",
+        "name": "A_012",
+        "hp": 1,
+        "speed": 3,
+        "maxSpeed": 3,
+        "path": "Prefabs/GameScene/Animal/A_012"
+    },
+    {
+        "id": "A_013",
+        "name": "A_013",
+        "hp": 1,
+        "speed": 3,
+        "maxSpeed": 3,
+        "path": "Prefabs/GameScene/Animal/A_013"
+    },
+    {
+        "id": "A_014",
+        "name": "A_014",
+        "hp": 1,
+        "speed": 3,
+        "maxSpeed": 3,
+        "path": "Prefabs/GameScene/Animal/A_014"
+    },
+    {
+        "id": "A_015",
+        "name": "A_015",
+        "hp": 1,
+        "speed": 3,
+        "maxSpeed": 3,
+        "path": "Prefabs/GameScene/Animal/A_015"
+    },
+    {
+        "id": "A_016",
+        "name": "A_016",
+        "hp": 1,
+        "speed": 3,
+        "maxSpeed": 3,
+        "path": "Prefabs/GameScene/Animal/A_016"
+    },
+    {
+        "id": "A_017",
+        "name": "A_017",
+        "hp": 1,
+        "speed": 3,
+        "maxSpeed": 3,
+        "path": "Prefabs/GameScene/Animal/A_017"
+    }
+]

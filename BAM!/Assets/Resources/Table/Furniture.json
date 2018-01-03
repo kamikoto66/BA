@@ -1,0 +1,36 @@
+[
+    {
+        "id": "F_001",
+        "name": "StudentDesk",
+        "probabilty": "C",
+        "dur": 10,
+        "description": "학교책상입니다",
+        "path": "Prefabs/HomeScene/Fur/desk(student)",
+        "imagePath": "Prefabs/HomeScene/UI/FurntiureInven/desk(student)",
+        "BuffGroup": [
+            {
+                "buff": "B_001"
+            },
+            {
+                "buff": "B_002"
+            }
+        ]
+    },
+    {
+        "id": "F_002",
+        "name": "StudentChair",
+        "probabilty": "C",
+        "dur": 10,
+        "description": "학교의자입니다",
+        "path": "Prefabs/HomeScene/Fur/chair(student)",
+        "imagePath": "Prefabs/HomeScene/UI/FurntiureInven/chair(student)",
+        "BuffGroup": [
+            {
+                "buff": "B_003"
+            },
+            {
+                "buff": "B_004"
+            }
+        ]
+    }
+]

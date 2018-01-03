@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<CarData>
+  <Field id="0" isHave="1" ImageName="Car_001" />
+  <Field id="1" isHave="0" ImageName="Car_002" />
+  <Field id="2" isHave="1" ImageName="Car_003" />
+</CarData>
